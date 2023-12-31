@@ -62,5 +62,5 @@ print(Norm_of_matrix)
 ![3](https://github.com/Loknaath-sec/Norm-of-a-matrix/assets/145742558/f4d4d93c-6b77-4971-b2fc-ded1e6867952)
 
 
-## Result
+## Result:
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
